@@ -34,7 +34,6 @@ npm install
 
 ```bash
 npm start
-Now, you should have the development server up and running. Happy coding!
 ```
 
 Now, you should have the development server up and running. Happy coding!
